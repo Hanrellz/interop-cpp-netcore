@@ -1,0 +1,11 @@
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/bin/Debug/netcoreapp2.2/Hello-world-netcore.deps.json
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/bin/Debug/netcoreapp2.2/Hello-world-netcore.runtimeconfig.json
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/bin/Debug/netcoreapp2.2/Hello-world-netcore.runtimeconfig.dev.json
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/bin/Debug/netcoreapp2.2/Hello-world-netcore.dll
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/bin/Debug/netcoreapp2.2/Hello-world-netcore.pdb
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/obj/Debug/netcoreapp2.2/Hello-world-netcore.csprojAssemblyReference.cache
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/obj/Debug/netcoreapp2.2/Hello-world-netcore.csproj.CoreCompileInputs.cache
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/obj/Debug/netcoreapp2.2/Hello-world-netcore.AssemblyInfoInputs.cache
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/obj/Debug/netcoreapp2.2/Hello-world-netcore.AssemblyInfo.cs
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/obj/Debug/netcoreapp2.2/Hello-world-netcore.dll
+/home/hanrellz/GIT/Hanrellz/interop-cpp-netcore/Hello-world-netcore/Hello-world-netcore/obj/Debug/netcoreapp2.2/Hello-world-netcore.pdb
